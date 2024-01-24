@@ -1,0 +1,16 @@
+Artificial intelligence, the ability of a digital processor or computer-controlled robot to
+execute activities frequently associated with intelligent beings. The term is frequently
+applied to the project of developing systems endowed with the intellectual processes
+characteristics of humans, such as the capacity to deduce, unveil significance,
+generalize, or glean from past experience. Since the evolution of the digital computer
+in the 1940s, it has been demonstrated that computers can be instructed to execute
+exceedingly intricate undertakings—such as unearthing validations for mathematical
+propositions or engaging in board games—with remarkable adeptness. However,
+despite continuing advances in computer processing rapidity and memory capability,
+there are currently no programs that can parallel complete human adaptability across
+broader realms or in tasks requiring much everyday knowledge. Conversely, a few
+applications have achieved the levels of performance levels of human experts and
+professionals in performing certain specific tasks, so that artificial intelligence in this
+limited sense is observed in applications as diverse as medical diagnosis, computer
+
+search engines, vocal or script recognition, and chatbots.

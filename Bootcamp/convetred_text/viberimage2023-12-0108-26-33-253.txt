@@ -1,0 +1,14 @@
+Artificial intelligence refers to the simulation of human intelligence by software-coded
+heuristics. The ideal characteristic of artificial intelligence is its ability to rationalize and
+take actions that have the best chance of achieving a specific goal. A subset of artificial
+intelligence is machine learning, which refers to the concept that computer programs
+can automatically learn from and adapt to new data without being assisted by humans.
+Deep learning techniques enable this automatic learning through the absorption of
+huge amounts of unstructured data such as text, images, or video. Artificial intelligence
+is based on the principle that human intelligence can be defined in a way that a
+machine can easily mimic it and execute tasks, from the simplest to those that are
+even more complex. The goals of artificial intelligence include mimicking human
+cognitive activity. Researchers and developers in the field are making surprisingly rapid
+strides in mimicking activities such as learning, reasoning, and perception, to the
+
+extent that these can be concretely defined.
