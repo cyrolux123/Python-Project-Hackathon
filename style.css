@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem 0;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 2rem 0;
+}
