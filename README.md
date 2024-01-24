@@ -57,6 +57,4 @@ If you have something to add, I welcome pull requests on improvement; your helpf
 
 If you find this repo useful, give it a star so that many people can get to know it.
 
-## Credits
 
-All the credit goes to [kalebu](https://github.com/kalebu).
