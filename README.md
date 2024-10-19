@@ -36,9 +36,7 @@ $ Plagiarism-checker-Python-> python3 app.py
 
 ```
 
-## A Python Library?
 
-Would you like to use a Python library instead to help you compare strings and documents without spending time writing the vectorizers by yourself, then take a look at [Pysimilar](https://github.com/Kalebu/pysimilar).
 
 ## Explore it 
 
